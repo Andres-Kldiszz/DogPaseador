@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826049143513",
+    "project_id": "udea-mascotas-db11c",
+    "storage_bucket": "udea-mascotas-db11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826049143513:android:2ab013860b4183abbb14c8",
+        "android_client_info": {
+          "package_name": "com.Udea.paseador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826049143513-tcl3866r9g1o4vh5mbjss67vtp428jn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhzKRRCWqfgqb7CASjfVkt_ePleBsNno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826049143513-tcl3866r9g1o4vh5mbjss67vtp428jn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
